@@ -1,5 +1,5 @@
-**Project Name**
-Production Incident Intelligence Platform
+**Project Name** 
+**Production Incident Intelligence Platform**
 
 Problem Statement
 An enterprise application can experience production incidents such as application failuer, performance issues, database problems, security incidents, and network failures.
@@ -8,7 +8,7 @@ This platform helps engineering teams manage and track production incidents thro
 
 In future versions, AI capabilities will be added to analyze incident descriptions, suggest severity and category, identify possible root causes, and recommend troubleshooting actions.
 
-Version 1 Features
+**Version 1 Features**
 - Create an incident
 - Get incident by ID
 - Get all incidents
@@ -17,7 +17,7 @@ Version 1 Features
 - Assign an incident
 - Resolve an incident
 
-Technology Stack
+**Technology Stack**
 - Java 17
 - Spring Boot
 - Maven
