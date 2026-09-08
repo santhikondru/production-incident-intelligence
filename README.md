@@ -1,7 +1,4 @@
-# production-incident-intelligence
-A backend platform for managing and anlayzing the production incidents.
-
-Project Name 
+**Project Name**
 Production Incident Intelligence Platform
 
 Problem Statement
